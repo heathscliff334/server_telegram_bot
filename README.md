@@ -35,7 +35,7 @@ pip install python-telegram-bot
 cp config.json_template config.json
 ```
 
-- Telegram
+- config.json
     - [TOKEN]: token that we got from BotFather
     - [authorized_users]: list of user that can utilize our bot
 
