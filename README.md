@@ -88,12 +88,12 @@ If you find this project useful and would like to support its development, you c
 ### Donating with Bitcoin
 
 To donate with Bitcoin, you can use any Bitcoin wallet of your choice. Here are the steps:
-
+<pre>
 1. Open your Bitcoin wallet.
 2. Select the option to send Bitcoin.
 3. Enter the amount you wish to donate.
 4. In the recipient field, paste the Bitcoin address above (`1DukhqTeBJLKrhZBKnC4gFFWgTNLt5CU7o`).
 5. Double-check the address to ensure it's correct.
 6. Confirm the transaction.
-
+</pre>
 Your donation will help us continue to improve and maintain this project. Thank you for your support!
