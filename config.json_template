@@ -1,0 +1,7 @@
+{
+    "TOKEN": "<botfather token>",
+    "authorized_users": [
+        "<telegram_username>"
+    ]
+}
+
