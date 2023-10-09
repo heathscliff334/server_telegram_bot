@@ -70,10 +70,29 @@ pm2 stop server_telegram_bot
 pm2 restart server_telegram_bot
 ```
 
-## Save the Process List & Startup
+### Save the Process List & Startup
 
 ```bash
 pm2 save
 pm2 startup
 ```
 
+## Support This Project
+
+If you find this project useful and would like to support its development, you can make a donation using Bitcoin. Your contribution will be greatly appreciated.
+
+<img src='https://static.vecteezy.com/system/resources/previews/008/505/801/original/bitcoin-logo-color-illustration-png.png' width='10%'>
+**Bitcoin Address:** `1DukhqTeBJLKrhZBKnC4gFFWgTNLt5CU7o`
+
+### Donating with Bitcoin
+
+To donate with Bitcoin, you can use any Bitcoin wallet of your choice. Here are the steps:
+
+1. Open your Bitcoin wallet.
+2. Select the option to send Bitcoin.
+3. Enter the amount you wish to donate.
+4. In the recipient field, paste the Bitcoin address above (`1DukhqTeBJLKrhZBKnC4gFFWgTNLt5CU7o`).
+5. Double-check the address to ensure it's correct.
+6. Confirm the transaction.
+
+Your donation will help us continue to improve and maintain this project. Thank you for your support!
