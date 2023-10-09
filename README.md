@@ -82,6 +82,7 @@ pm2 startup
 If you find this project useful and would like to support its development, you can make a donation using Bitcoin. Your contribution will be greatly appreciated.
 
 <img src='https://static.vecteezy.com/system/resources/previews/008/505/801/original/bitcoin-logo-color-illustration-png.png' width='10%'>
+
 **Bitcoin Address:** `1DukhqTeBJLKrhZBKnC4gFFWgTNLt5CU7o`
 
 ### Donating with Bitcoin
