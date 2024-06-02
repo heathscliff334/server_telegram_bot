@@ -14,6 +14,9 @@ sudo apt install python3 python3-pip
 sudo apt install python3-venv
 ```
 
+Recommended installing Python 3.10
+
+
 - Create a telegram bot on [BotFather](https://t.me/botfather) by sending `/newbot` command.
 
 ### Create a Virtual Environment (Optional)
@@ -27,6 +30,12 @@ source myenv/bin/activate
 
 ```bash
 pip install python-telegram-bot
+pip install psutil
+```
+
+Recommended installing python-telegram-bot v13.7
+```
+pip install python-telegram-bot==13.7
 ```
 
 ### Configure 
