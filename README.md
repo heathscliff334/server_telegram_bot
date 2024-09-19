@@ -25,12 +25,20 @@ Recommended installing Python 3.10
 python -m venv myenv
 source myenv/bin/activate
 ```
+or you can use python3
+```bash
+python3 -m venv myenv
+```
 
 ### Install Required Packages
 
 ```bash
 pip install python-telegram-bot
 pip install psutil
+```
+Install urllib3 (optional only if you get an error when try to run)
+```bash
+pip install urllib3
 ```
 
 Recommended installing python-telegram-bot v13.7
